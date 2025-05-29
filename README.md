@@ -21,14 +21,14 @@ GitHub Pagesで公開しています。
 
 ## 💻 使用技術
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - GitHub Pages
 
 ---
 
 ## 🧑‍💻 作者
 
-池田 夏穂（@rak-san-kin）  
+saku 
 Web制作を勉強中の初学者です。  
 ポートフォリオや練習成果をまとめています。
